@@ -53,7 +53,7 @@ These applications help you design BCI experiments, run them, collect data, and 
 
 * [EEG-ExPy](https://github.com/NeuroTechX/eeg-expy): Free & Open-Source (FOSS) Python library for EEG & experiment design, recording, and analysis. Maintained by the EEG-ExPy team within NeuroTechX. [CNS2024 Poster](https://bit.ly/m/eeg-expy-cns)
 * [OpenViBE](http://openvibe.inria.fr/): A software platform dedicated to designing, testing, and using Brain-Computer Interfaces, maintained by the OpenViBE Consortium.
-* [BCI2000](http://www.schalklab.org/research/bci2000): Software suite with GUI based on C++ for data acquisition, stimulus presentation, and brain monitoring applications.
+* [BCI2000](https://www.bci2000.org/mediawiki/index.php/Main_Page): Software suite with GUI based on C++ for data acquisition, stimulus presentation, and brain monitoring applications.
 * [Brainstorm](http://neuroimage.usc.edu/brainstorm/): Collaborative, open-source application dedicated to the analysis of brain recordings: MEG, EEG, fNIRS, ECoG, depth electrodes and multiunit electrophysiology.
 * [BrainBay](http://www.shifz.org/brainbay/): Bio- and neurofeedback application working with various hardware frameworks including OpenBCI/OpenEEG.
 * [EventIDE](http://okazolab.com/): EventIDE is a software platform for designing and running multimodal experiments, with an IDE.
@@ -105,7 +105,7 @@ These applications help you design BCI experiments, run them, collect data, and 
 
 * [BrainBox](http://brainbox.pasteur.fr/)
 * [BrainBrowser](https://brainbrowser.cbrain.mcgill.ca/)
-* [Moonlight](https://zzz.bwh.harvard.edu/luna/moonlight/)
+* [Moonlight](https://zzz.bwh.harvard.edu/luna/apps/moonlight/)
 
 ### RaspberryPi Framework
 
@@ -141,7 +141,7 @@ Some of these devices are still supported and actively developed by manufacturer
 * [Dreem by Beacon Biosignals](https://beacon.bio/dreem-headband/)
 * [Cognionics](http://www.cognionics.com/)
 * [Elemind](https://elemindtech.com/)
-* [Melomind](https://www.themelomind.com/)
+* [Melomind|Inactive](https://www.themelomind.com/)
 * [Neurosky](http://neurosky.com/)
 * [FreeEEG32: an open source 32 channel eeg](https://www.crowdsupply.com/neuroidss/freeeeg32)
 * [EEG-SMT by Olimex](https://bakerdh.wordpress.com/2013/01/31/a-first-look-at-the-olimex-eeg-smt/)
@@ -189,7 +189,7 @@ Near-Infrared Spectroscopy (NIRS) is a technology that measures the concentratio
 
 These devices combine different type of sensors to measure or influence brain activity.
 
-* [Foc.us Dev kit: EEG,TDCS,fNIRS,TACS](https://world.foc.us/eeg)
+* [Foc.us Dev kit: EEG,TDCS,fNIRS,TACS|Inactive](https://world.foc.us/eeg)
 * [Neuroelectrics: EEG,TDCS](http://www.neuroelectrics.com/)
 * [BITalino: EEG,EMG,ECG,EDA](http://www.bitalino.com/)
 * [Emotibit: EDA,PPG,Temperature](https://www.emotibit.com/)
@@ -211,8 +211,8 @@ These devices combine different type of sensors to measure or influence brain ac
 
 ### Upcoming NeuroImaging Tech
 
-* [Functional Ultrasound (FUS)](http://fultrasound.eu/)
-* [FPGA Ultrasound Imaging on a Raspberry Pi ](http://un0rick.cc/FPGA-Rpi)
+* [Functional Ultrasound (FUS)|Inactive](http://fultrasound.eu/)
+* [FPGA Ultrasound Imaging on a Raspberry Pi|Inactive](http://un0rick.cc/FPGA-Rpi)
 * [Event Related Optical Signal](https://en.wikipedia.org/wiki/Event-related_optical_signal)
 * [Event-Related Optical Signal](https://www.researchgate.net/publication/223360817_Shedding_light_on_brain_function_The_event-related_optical_signal)
 * [Quasi-Ballistic Photons. (The Tech being used by Facebook's BCI)](https://arxiv.org/pdf/cond-mat/9906188.pdf)
